@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mickeyyawn/js-sandbox/issues"
   },
-  "homepage": "https://github.com/mickeyyawn/js-sandbox#readme"
+  "homepage": "https://github.com/mickeyyawn/js-sandbox#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
 }
