@@ -1,0 +1,23 @@
+{
+  "name": "js-sandbox",
+  "version": "1.0.0",
+  "description": "Play area for modern Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickeyyawn/js-sandbox.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js"
+  ],
+  "author": "Mickey Yawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickeyyawn/js-sandbox/issues"
+  },
+  "homepage": "https://github.com/mickeyyawn/js-sandbox#readme"
+}
