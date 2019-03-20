@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mickeyyawn/js-sandbox#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "redux": "^4.0.1"
   }
 }
